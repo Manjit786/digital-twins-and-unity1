@@ -1,2 +1,3 @@
-# digital-twins-and-unity1
-digital twins and unity
+# digital-twin-assginment
+prototyping with unity by creating a digital twin model
+unity version (2019.3.1)
